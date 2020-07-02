@@ -97,17 +97,23 @@ const styles = StyleSheet.create({
   inputUser: {
     marginVertical: 10,
     backgroundColor: '#e1d3ed',
-        borderColor: '#e1d3ed'
+    borderColor: '#8982a0'
   },
 
   inputUserDentro: {
-    color: '#fff'
+    color: '#fff',
+    textAlign: 'center'
   },
 
   inputPass: {
     marginVertical: 10,
     backgroundColor: '#e1d3ed',
-        borderColor: '#e1d3ed'
+        borderColor: '#8982a0'
+  },
+
+  inputPassDentro: {
+    color: '#fff',
+    textAlign: 'center'
   },
 
   //Estilos del boton de entrar
